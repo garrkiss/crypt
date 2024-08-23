@@ -10,7 +10,7 @@
 
 ### Решение 1
 
-![Скрин](https://github.com/garrkiss/cluster_and_balance/blob/main/img/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%2005.06.24_19.32.48.png)
+![Скрин](https://github.com/garrkiss/crypt/blob/main/img/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%2023.08.24_11.43.21.png)
 
 
 ### Задание 2
@@ -24,5 +24,5 @@
 
 ### Решение 2
 
-![Скрин](https://github.com/garrkiss/cluster_and_balance/blob/main/img/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%2005.06.24_19.32.48.png)
-![Скрин](https://github.com/garrkiss/cluster_and_balance/blob/main/img/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%2005.06.24_19.32.48.png)
+![Скрин](https://github.com/garrkiss/crypt/blob/main/img/image.png)
+![Скрин](https://github.com/garrkiss/crypt/blob/main/img/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%2023.08.24_12.33.23.png)
